@@ -1,0 +1,204 @@
+/*顶部banner开始*/
+.bannerbox{width: 100%;
+height: 587px;
+}
+.banner{width: 1230px;
+	height: 587px;
+	margin: 0 auto;}
+.shouye303{position: relative;
+top:-380px;
+left: 200px;}
+.shouye306{position: relative;
+top:-350px;
+left: 30px;}
+/*banner结束*/
+.daohangbox{width: 100%;
+height: 79px;
+}
+.daohang{width: 1230px;
+height: 77px;
+margin: 0 auto;
+}
+.daohangworld{width: 80px;
+height: 77px;
+float: left;
+margin-left: 100px;
+border-right: 2px solid #6f525f;
+border-bottom: 2px solid white;}
+.daohangworld a{text-align: center;
+line-height: 1.9em;}
+.daohangworld1{width: 100px;
+height: 77px;
+float: left;
+border-right: 2px solid #6f525f;
+border-bottom: 2px solid white;
+margin-left: 46px;}
+.daohangworld1 a{text-align: center;
+line-height: 1.9em;}
+.daohangworld2{width: 100px;
+height: 77px;
+border-right: 2px solid #6f525f;
+border-bottom: 2px solid white;
+float: left;
+margin-left: 46px;}
+.daohangworld2 a{text-align: center;
+line-height: 1.9em;}
+.daohangworld3{width: 100px;
+height: 77px;
+border-right: 2px solid #6f525f;
+border-bottom: 2px solid white;
+float: left;
+margin-left: 46px;}
+.daohangworld3 a{text-align: center;
+line-height: 1.9em;}
+.daohangworld4{width: 100px;
+height: 77px;
+border-right: 2px solid #6f525f;
+border-bottom: 2px solid white;
+float: left;
+margin-left: 46px;}
+.daohangworld4 a{text-align: center;
+line-height: 1.9em;}
+.daohangworld5{width: 80px;
+height: 77px;
+float: right;
+margin-right: 100px;}
+.daohangworl5 a{text-align: center;
+line-height: 1.9em;}
+.search{width: 150px;
+height: 24px;
+margin-top: 48px;}
+.searchtu{position:relative;
+	         left:125px;
+	         top: -24px;}
+.daohangworld:hover{border-bottom: 2px solid #fb7587;}
+.daohangworld1:hover{border-bottom: 2px solid #fb7587;}
+.daohangworld2:hover{border-bottom: 2px solid #fb7587;}
+.daohangworld3:hover{border-bottom: 2px solid #fb7587;}
+.daohangworld4:hover{border-bottom: 2px solid #fb7587;}	         
+/*展示开始*/
+.zhanshibox{width: 100%;
+height: 350px;}
+.zhanshi{width: 940px;
+height: 350px;
+margin: 0 auto;
+}
+.zhanshi516{margin-left:150px;}
+.zhanshi603{margin-left: 30px;
+margin-top: 40px;
+margin-right: 100px;}
+.zhanshibox1{width: 100%;
+height: 350px;}
+.zhanshi1{width: 940px;
+height: 350px;
+margin: 0 auto;
+}
+.zhanshi523{float: left;}
+.zhanship{float: left;
+width: 200px;
+height: 100px;}
+.zhanship h6{padding-top: 10px;
+font-size: 20px;}
+.p1{padding-left: 50px;
+color: #fc9ca8;}
+.p2{padding-top: 10px;}
+.zhanshi527{
+width: 150px;
+height: 70px;
+	float: left;
+margin-left: -200px;
+margin-top: 180px;}
+.zhanshi530{
+width: 42px;
+height: 94px;
+	float: left;
+margin-left: -280px;
+margin-top: 250px;}
+.zhanshi607{
+width: 421px;
+height: 279px;
+	float: left;
+margin-left: 130px;
+margin-top: 34px;}
+.zhanshibox2{width: 100%;
+height: 350px;}
+.zhanshi2{width: 940px;
+height: 350px;
+margin: 0 auto;
+}
+.zhanshi611{
+width: 365px;
+height: 319px;
+	float: left;
+	margin-top: 15px;
+}
+.zhanship1{float: left;
+width: 200px;
+height: 100px;
+margin-left: 200px;}
+.zhanship1 h6{padding-top: 10px;
+font-size: 20px;
+padding-left: 100px;}
+.p1{
+color: #fc9ca8;}
+.p2{padding-top: 10px;}
+.zhanshi5271{
+width: 150px;
+height: 70px;
+	float: left;
+margin-left: 310px;
+margin-top: 90px;}
+.zhanshi539{
+width: 42px;
+height: 94px;
+	float: left;
+margin-top: 150px;}
+.zhanshibox3{width: 100%;
+height: 350px;}
+.zhanshi3{width: 940px;
+height: 350px;
+margin: 0 auto;
+}
+.zhanshi523{float: left;}
+.zhanship{float: left;
+width: 200px;
+height: 100px;}
+.zhanship h6{padding-top: 10px;
+font-size: 20px;}
+.p1{padding-left: 50px;
+color: #fc9ca8;}
+.p2{padding-top: 10px;}
+.zhanshi542{
+width: 42px;
+height: 94px;
+	float: left;
+margin-left: -280px;
+margin-top: 250px;}
+.zhanshi615{
+width: 421px;
+height: 350px;
+	float: left;
+margin-left: 130px;
+margin-top: 34px;}
+
+/*展示结束*/
+/*底部开始*/
+.dibubox{width: 100%;
+height: 284px;
+background: #fcbf9b;
+}
+.dibu{width: 1230px;
+	height: 284px;
+	margin: 0 auto;
+}
+.dibu1{width: 500px;
+height: 200px;
+line-height: 2em;
+margin-left: 100px;
+float: left;}
+.dibup{padding-top: 50px;}
+.dibu2{width: 500px;
+height: 200px;
+margin-left: 100px;
+line-height: 2em;
+float: left;}
